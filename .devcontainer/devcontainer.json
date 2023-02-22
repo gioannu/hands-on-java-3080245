@@ -19,7 +19,8 @@
 			"extensions": [
 				"vscjava.vscode-java-pack",
 				"GitHub.github-vscode-theme",
-				"sohibe.java-generate-setters-getters"
+				"sohibe.java-generate-setters-getters",
+				"vscjava.vscode-java-dependency"
 			]
 		}
 	},
